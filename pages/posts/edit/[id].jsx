@@ -127,7 +127,7 @@ const EditPostPage = ({ user }) => {
               Icon={LinkIcon}
               label="Deployed website URL"
               id="live-demo"
-              placeholder="https://nitinranganath.me"
+              placeholder="https://dharmesh-kashyap.vercel.app"
               value={liveDemo}
               setValue={setLiveDemo}
               required
@@ -136,7 +136,7 @@ const EditPostPage = ({ user }) => {
               Icon={TerminalIcon}
               label="Source code repository"
               id="source-code"
-              placeholder="https://github.com/itsnitinr/Mirerse"
+              placeholder="https://github.com/dharmesh-kashyap/Mirerse_V2"
               value={sourceCode}
               setValue={setSourceCode}
             />

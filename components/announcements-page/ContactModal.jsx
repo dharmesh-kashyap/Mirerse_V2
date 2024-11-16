@@ -81,7 +81,7 @@ const BadgeModal = ({ open, setOpen, badge }) => {
                     <FaTwitter className="h-5 w-5" />
                   </a>
                   <a
-                    href="https://github.com/itsnitinr/Mirerse-v2"
+                    href="https://github.com/dharmesh-kashyap/Mirerse_V2"
                     target="_blank"
                     rel="noreferrer"
                     className="inline-flex w-full justify-center rounded-md border cursor-pointer border-transparent shadow-sm px-4 py-2 bg-gray-800 text-base font-medium text-white hover:bg-gray-900 focus:outline-none sm:text-sm"

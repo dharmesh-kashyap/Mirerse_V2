@@ -178,7 +178,7 @@ const NotificationItem = ({ notification, index, length }) => {
                 <div className="relative cursor-pointer">
                   <Image
                     className="rounded-full flex items-center justify-center ring-8 ring-white object-cover"
-                    src="https://res.cloudinary.com/nitinr/image/upload/v1631657391/Mirerse/atjmp5lij1wy2ox4pnsc.png"
+                    src=""
                     width={40}
                     height={40}
                   />
